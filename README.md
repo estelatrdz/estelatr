@@ -1,2 +1,2 @@
 # estelatr
-Analisis de Negocios /  Datos 
+Análisis de Negocios /  Datos / Gerente de Operaciones
