@@ -1,6 +1,6 @@
 # Portafolio de Estela Trujillio
 
-Bienvenid@ a mi portafolio. Aquí encontrarás una muestra de las habilidades y proyectos que he desarrollado en mi camino profesional, especialmente enfocados en análisis de datos, utiles para pae analisis de negocios.
+Bienvenid@ a mi portafolio. Aquí encontrarás una muestra de las habilidades y proyectos que he desarrollado en mi camino profesional, especialmente enfocados en análisis de datos, utiles para el analisis de negocios.
 
 ## 1.Proyecto de Power BI
 -Reto Grow Up Date Analitycs. Este proyecto consiste en un tablero interactivo que permite el monitoreo de KPIs críticos, diseñado para facilitar la toma de decisiones estratégicas.
