@@ -11,7 +11,7 @@ Bienvenid@ a mi portafolio. Aquí encontrarás una muestra de las habilidades y 
   - **Joins**: Optimización de combinaciones entre tablas.
   - **Limpieza de datos**: Preparación de datos para análisis posteriores.
   - **Consultas avanzadas**: Agregaciones, filtros y funciones complejas.
-Puedes explorar los scripts en la carpeta [`scripts_sql`](enlace_a_la_carpeta).
+Puedes explorar los scripts en la carpeta [`scripts_sql`](enlace_a_la_carpeta](https://github.com/estelatrdz/estelatr/tree/main/Scripts%20MySQL).
 
 ## **Sobre mí**
 Soy una profesional apasionada por el análisis de datos y la inteligencia de negocio. Combino experiencia operativa con habilidades técnicas en herramientas como SQL, Power BI y Python para generar valor y aportar soluciones basadas en datos.
