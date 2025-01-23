@@ -13,4 +13,11 @@ Bienvenid@ a mi portafolio. Aquí encontrarás una muestra de las habilidades y 
   - **Consultas avanzadas**: Agregaciones, filtros y funciones complejas.
 Puedes explorar los scripts en la carpeta [`scripts_sql`](enlace_a_la_carpeta).
 
+## **Sobre mí**
+Soy una profesional apasionada por el análisis de datos y la inteligencia de negocio. Combino experiencia operativa con habilidades técnicas en herramientas como SQL, Power BI y Python para generar valor y aportar soluciones basadas en datos.
+
+
 ¡Explora mis proyectos y no dudes en contactarme si tienes preguntas!
+📧 **Correo:** [estela.trdz@outlook.com]  
+🔗 **LinkedIn:** [www.linkedin.com/in/estela-trujillo-rdz-070116314)
+
