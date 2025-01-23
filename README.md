@@ -6,7 +6,7 @@ Bienvenid@ a mi portafolio. Aquí encontrarás una muestra de las habilidades y 
 -Reto Grow Up Date Analitycs. Este proyecto consiste en un tablero interactivo que permite el monitoreo de KPIs críticos, diseñado para facilitar la toma de decisiones estratégicas.
 - [Tablero para monitorear métricas clave](https://github.com/estelatrdz/estelatr/blob/main/Reto%20Grow%20UP.pbix). 
 
-## Consultas SQL MySQL
+## 2.Consultas SQL MySQL
 - Scripts SQL organizados para resolver problemas reales en análisis de datos:
   - **Joins**: Optimización de combinaciones entre tablas.
   - **Limpieza de datos**: Preparación de datos para análisis posteriores.
