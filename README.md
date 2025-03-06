@@ -5,6 +5,7 @@ Bienvenid@ a mi portafolio. Aquí encontrarás una muestra de las habilidades y 
 ## 1.Proyecto de Power BI
 -Reto Grow Up Date Analitycs. Este proyecto consiste en un tablero interactivo que permite el monitoreo de KPIs críticos, diseñado para facilitar la toma de decisiones estratégicas.
 - [Tablero para monitorear métricas clave](https://github.com/estelatrdz/estelatr/blob/main/Reto%20Grow%20UP.pbix).
+ 
 -Analisis de Turismo Costa Rica. Este proyecto lo realice como práctica en Grow Up Date Analitycs, consiste en un tablero interactivo con la propuesta de analisis de los KPI's definidos.
 - [Tablero -Turismo Costa Rica](https://github.com/estelatrdz/estelatr/blob/main/Turismo%20Costa%20Rica.pbix).
 
