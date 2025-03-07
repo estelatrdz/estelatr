@@ -8,7 +8,7 @@ Bienvenid@ a mi portafolio. Aquí encontrarás una muestra de las habilidades y 
  
 -Análisis de Turismo Costa Rica. Este proyecto lo realice como práctica en Grow Up Date Analitycs, consiste en un tablero interactivo y un análisis de KPI's e insights.
 - [Tablero -Turismo Costa Rica](https://github.com/estelatrdz/estelatr/blob/main/Turismo%20Costa%20Rica.pbix).
-- [Anális KPI's e Insights]().
+- [Anális KPI's e Insights](https://github.com/estelatrdz/estelatr/blob/main/Analisis%20KPI%20Insights).
 
 ## 2.Consultas SQL MySQL
 - Scripts SQL organizados para resolver problemas reales en análisis de datos:
