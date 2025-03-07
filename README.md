@@ -7,7 +7,7 @@ Bienvenid@ a mi portafolio. Aquí encontrarás una muestra de las habilidades y 
 - [Tablero para monitorear métricas clave](https://github.com/estelatrdz/estelatr/blob/main/Reto%20Grow%20UP.pbix).
  
 -Analisis de Turismo Costa Rica. Este proyecto lo realice como práctica en Grow Up Date Analitycs, consiste en un tablero interactivo con la propuesta de analisis de los KPI's definidos.
-- [Tablero -Turismo Costa Rica](https://github.com/estelatrdz/estelatr/blob/main/Turismo%20Costa%20Rica.pbix).
+- [Tablero -Turismo Costa Rica]().
 
 ## 2.Consultas SQL MySQL
 - Scripts SQL organizados para resolver problemas reales en análisis de datos:
